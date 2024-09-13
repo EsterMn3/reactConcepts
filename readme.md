@@ -6,7 +6,7 @@ This React app displays a list of core concepts and examples related to React de
 <br />
 <div align="center">
   <a href="https://reactconcepts-ester.netlify.app/">
-    <img src="assets\react-core-concepts.png" alt="Logo" height="80">
+    <img src="src\assets\react-core-concepts.png" alt="Logo" height="80">
   </a>
   <h1 align="center">ReactConcepts</h1>
 
